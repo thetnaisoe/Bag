@@ -1,0 +1,15 @@
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.deps.json
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.runtimeconfig.json
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.dll
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.pdb
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.AssemblyReference.cache
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfoInputs.cache
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfo.cs
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.dll
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/refint/Assignment1.dll
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.pdb
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.genruntimeconfig.cache
+/Users/ThetNaingSoe/ELTE/OOP/Assignment1/Assignment1/obj/Debug/net6.0/ref/Assignment1.dll
